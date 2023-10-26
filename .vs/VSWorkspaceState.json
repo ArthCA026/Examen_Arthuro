@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ExamenAPI",
+    "\\ExamenAPI\\ExamenAPI",
+    "\\ExamenAPI\\ExamenAPI\\Controllers",
+    "\\ExamenAPI\\ExamenAPI\\Entities",
+    "\\ExamenWEB",
+    "\\ExamenWEB\\ExamenWEB",
+    "\\ExamenWEB\\ExamenWEB\\Controllers",
+    "\\ExamenWEB\\ExamenWEB\\Views",
+    "\\ExamenWEB\\ExamenWEB\\Views\\Home"
+  ],
+  "SelectedNode": "\\ExamenWEB\\ExamenWEB\\Views\\Home\\Estudiantes.cshtml",
+  "PreviewInSolutionExplorer": false
+}
